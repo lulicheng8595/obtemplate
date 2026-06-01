@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "未命名 5.base",
+                "file": "未命名.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
-              "title": "未命名 5"
+              "title": "未命名"
             }
           }
         ]
@@ -187,37 +187,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "11108bbce1cab93e",
+  "active": "37f8f40eef564c7f",
   "lastOpenFiles": [
-    "未命名 4.base",
+    "科研/论文阅读/2026-Sun-High-load-bearing-and-ultra-wideband-absorbing-reconfigurable-Miura-ori-metastructures.md",
+    "未命名.md",
+    "未命名.base",
     "未命名 5.base",
+    "2026-05-06.md",
+    "未命名 4.base",
     "未命名 3.base",
     "Obsidian/assets/Pasted image 20260114204533.png",
     "未命名 3.canvas",
     "未命名 2.base",
     "README.md",
-    "2026-05-06.md",
     "未命名 2.canvas",
     "Obsidian/教程.md",
     "Obsidian/讲解思路.md",
     "未命名 1.canvas",
     "未命名 1.base",
-    "未命名.base",
     "未命名.canvas",
     "Obsidian/assets/Pasted image 20260202230956.png",
     "Obsidian/assets/Pasted image 20260202230917.png"

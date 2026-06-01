@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Dracula for Obsidian",
-  "theme": "moonstone",
+  "cssTheme": "",
+  "theme": "system",
   "enabledCssSnippets": [
     "header-bottom-spacing"
-  ]
+  ],
+  "accentColor": ""
 }
