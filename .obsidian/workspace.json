@@ -11,10 +11,13 @@
             "id": "11108bbce1cab93e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "未命名 5.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 5"
             }
           }
         ]
@@ -139,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名 3.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 3 的大纲"
+            }
+          },
+          {
+            "id": "9547010778cf95ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "84321158e214785f",
@@ -190,6 +204,12 @@
   },
   "active": "11108bbce1cab93e",
   "lastOpenFiles": [
+    "未命名 4.base",
+    "未命名 5.base",
+    "未命名 3.base",
+    "Obsidian/assets/Pasted image 20260114204533.png",
+    "未命名 3.canvas",
+    "未命名 2.base",
     "README.md",
     "2026-05-06.md",
     "未命名 2.canvas",
@@ -199,7 +219,6 @@
     "未命名 1.base",
     "未命名.base",
     "未命名.canvas",
-    "Obsidian/assets/Pasted image 20260114204533.png",
     "Obsidian/assets/Pasted image 20260202230956.png",
     "Obsidian/assets/Pasted image 20260202230917.png"
   ]
