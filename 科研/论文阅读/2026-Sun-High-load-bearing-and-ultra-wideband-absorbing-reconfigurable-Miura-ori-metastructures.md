@@ -1,4 +1,4 @@
-﻿---
+---
 title: High-load-bearing and ultra-wideband absorbing reconfigurable Miura-ori metastructures
 authors: Chengtao Sun; Dawei Li; Wenhe Liao; Tingting Liu; Changdong Zhang; Yingzhi Xiong
 journal: Composites Science and Technology
@@ -33,6 +33,11 @@ created: 2026-06-01
 ## 阅读状态与边界
 
 本笔记基于 ScienceDirect 官方页面可访问的摘要、引言片段、方法片段、总结片段、CRediT 信息，以及 ResearchGate 可见的图表上下文片段整理。当前本地项目、Zotero 数据库和 Zotero 附件目录均未找到该论文 PDF；ScienceDirect 全文需要机构权限。因此，下面对总体设计逻辑、关键性能指标和可借鉴写法可以直接使用，但具体几何参数、完整图表编号、实验样品尺寸、材料电磁参数曲线和补充材料数据需要拿到全文后复核。
+
+
+## 核心创新
+
+这篇文章的核心创新在于把 Miura-ori 折纸几何从一种“可折叠外形”提升为同时调控电磁吸收、结构承载和部署保持的多功能设计变量：作者利用 FDM 将 CB/PLA 损耗材料打印成刚柔一体的二维展开结构，再通过折叠形成三维可重构吸波超结构，使折叠角、等效厚度、周期几何和介电损耗共同决定超宽带吸波响应。相比传统纸基折纸吸波器或只关注电磁调谐的可重构超表面，该工作更重要的贡献是把“低载部署、高承载、宽带吸波、RCS 缩减”放进同一个结构体系中讨论，为承载-吸波一体化和后续 4D 打印自驱动折纸吸波结构提供了直接的设计范式。
 
 ## 一句话结论
 
@@ -139,3 +144,4 @@ created: 2026-06-01
   url = {https://doi.org/10.1016/j.compscitech.2026.111658}
 }
 ```
+

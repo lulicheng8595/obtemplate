@@ -11,13 +11,14 @@
             "id": "11108bbce1cab93e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "aFile": "科研/论文阅读/2026-Sun-High-load-bearing-and-ultra-wideband-absorbing-reconfigurable-Miura-ori-metastructures.md",
+                "bFile": "科研/论文阅读/2026-Sun-High-load-bearing-and-ultra-wideband-absorbing-reconfigurable-Miura-ori-metastructures.md",
+                "aRef": ""
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "diff",
+              "title": "Diff: 2026-Sun-High-load-bearing-and-ultra-wideband-absorbing-reconfigurable-Miura-ori-metastructures  (Working Tree)"
             }
           }
         ]
@@ -183,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +204,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "37f8f40eef564c7f",
+  "active": "11108bbce1cab93e",
   "lastOpenFiles": [
     "科研/论文阅读/2026-Sun-High-load-bearing-and-ultra-wideband-absorbing-reconfigurable-Miura-ori-metastructures.md",
-    "未命名.md",
     "未命名.base",
+    "未命名.md",
     "未命名 5.base",
     "2026-05-06.md",
     "未命名 4.base",
