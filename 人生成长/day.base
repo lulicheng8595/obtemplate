@@ -1,0 +1,13 @@
+﻿filters:
+  and:
+    - file.hasTag("daily-growth")
+views:
+  - type: table
+    name: 每日成长
+    order:
+      - file.name
+      - note.date
+      - note.professional_topic
+      - note.general_topic
+      - note.core_question
+      - note.status
