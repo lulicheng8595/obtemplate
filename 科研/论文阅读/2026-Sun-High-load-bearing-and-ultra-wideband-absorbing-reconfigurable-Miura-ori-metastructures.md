@@ -1,4 +1,4 @@
-﻿---
+---
 title: High-load-bearing and ultra-wideband absorbing reconfigurable Miura-ori metastructures
 authors: Chengtao Sun; Dawei Li; Wenhe Liao; Tingting Liu; Changdong Zhang; Yingzhi Xiong
 journal: Composites Science and Technology
@@ -42,3 +42,6 @@ updated: 2026-06-02
 ## 共读记录
 
 > 这里等我们逐图读完后再整理。先不把未经讨论的判断写成结论。
+> 
+
+## 阅读感悟
