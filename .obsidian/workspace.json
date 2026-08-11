@@ -11,13 +11,14 @@
             "id": "11108bbce1cab93e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "人生成长/day.base",
-                "viewName": "每日成长"
+                "file": "人生成长/每日成长/2026-08-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "day"
+              "icon": "lucide-file",
+              "title": "2026-08-11"
             }
           },
           {
@@ -220,6 +221,9 @@
   },
   "active": "11108bbce1cab93e",
   "lastOpenFiles": [
+    "人生成长/day.base",
+    "人生成长/每日成长/2026-08-11.md",
+    "人生成长/成长阅读计划.md",
     "科研/课题知识库/4D打印连续纤维增强石墨烯PLA形状记忆复合材料热-粘弹本构与UMAT预测.md",
     "人生成长/每日成长/2026-06-08.md",
     "科研/论文写作风格/Sun2026_Miura写作风格.md",
@@ -230,7 +234,6 @@
     "科研/课题知识库/4D打印连续纤维增强折纸承载吸波超结构_实验大纲.md",
     "人生成长/每日成长/2026-06-03.md",
     "人生成长/每日成长/2026-06-02.md",
-    "人生成长/day.base",
     "人生成长/每日成长",
     "人生成长",
     "科研/论文阅读/2026-Sun-High-load-bearing-and-ultra-wideband-absorbing-reconfigurable-Miura-ori-metastructures.mojibake-backup.md",

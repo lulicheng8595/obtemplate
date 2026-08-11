@@ -1,4 +1,4 @@
-﻿filters:
+filters:
   and:
     - file.hasTag("daily-growth")
 views:
@@ -6,8 +6,11 @@ views:
     name: 每日成长
     order:
       - file.name
-      - note.date
-      - note.professional_topic
-      - note.general_topic
-      - note.core_question
-      - note.status
+      - date
+      - reading_book
+      - reading_chapter
+      - reading_task
+      - professional_topic
+      - general_topic
+      - core_question
+      - status
